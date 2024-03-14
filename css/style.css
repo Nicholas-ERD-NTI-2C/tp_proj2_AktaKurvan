@@ -1,0 +1,21 @@
+canvas {
+  background: #eee;
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: auto;
+  height: 80vh;
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 3px solid #313639 ;       
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
